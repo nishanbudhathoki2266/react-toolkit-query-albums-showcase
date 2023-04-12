@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Aaron Franecki",
+      "id": 1
+    },
+    {
+      "name": "Miss Tammy Langosh",
+      "id": 2
+    },
+    {
+      "name": "Tiffany Wilderman",
+      "id": 3
+    },
+    {
+      "name": "Mrs. Alton Jakubowski",
+      "id": 4
+    },
+    {
+      "name": "Jose Leuschke II",
+      "id": 5
+    },
+    {
+      "name": "Mamie Grant",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Fresh Ball",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Metal Sausages",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Cotton Fish",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Wooden Computer",
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "title": "Incredible Plastic Tuna",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Soft Pizza",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Fresh Mouse",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Cotton Ball",
+      "id": 9
+    }
+  ],
+  "photos": []
+}
