@@ -7,31 +7,13 @@
     {
       "name": "Miss Tammy Langosh",
       "id": 2
-    },
-    {
-      "name": "Tiffany Wilderman",
-      "id": 3
-    },
-    {
-      "name": "Jose Leuschke II",
-      "id": 5
     }
   ],
   "albums": [
     {
       "userId": 1,
-      "title": "Incredible Cotton Fish",
-      "id": 4
-    },
-    {
-      "userId": 1,
       "title": "Tasty Wooden Computer",
       "id": 5
-    },
-    {
-      "userId": 5,
-      "title": "Incredible Plastic Tuna",
-      "id": 6
     },
     {
       "userId": 1,
@@ -44,10 +26,61 @@
       "id": 8
     },
     {
-      "userId": 1,
-      "title": "Awesome Cotton Ball",
+      "userId": 2,
+      "title": "Awesome Fresh Chicken",
       "id": 9
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55551",
+      "id": 1
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84110",
+      "id": 2
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3855",
+      "id": 4
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20246",
+      "id": 5
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=74930",
+      "id": 6
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2689",
+      "id": 7
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23330",
+      "id": 8
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62618",
+      "id": 9
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=29160",
+      "id": 10
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44407",
+      "id": 12
+    }
+  ]
 }
